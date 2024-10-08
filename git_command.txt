@@ -13,3 +13,5 @@ python testing.py
  git restore testing.py
   git history
  history
+
+sum new changes
