@@ -1,0 +1,15 @@
+python testing.py
+  python testing.py
+  git status
+  git init
+  git status
+  clear
+  git add testing.py
+  git status
+  git commit -m testing.py
+  git status
+ clear
+  rm testing.py
+ git restore testing.py
+  git history
+ history
